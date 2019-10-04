@@ -4,29 +4,29 @@
     "parameters": {
 
         "publicHostingPlanName": {
-            "value": "xt-ci-hp-public"
+            "value": "devopsherotraining-ci-hp-public"
         },
 
         "apiHostingPlanName": {
-            "value": "xt-ci-hp-public"
+            "value": "devopsherotraining-ci-hp-public"
         },
 
         "publicWebSiteName": {
-            "value": "xt-ci-web-public"
+            "value": "devopsherotraining-ci-web-public"
         },
         "apiWebSiteName": {
-            "value": "xt-ci-api-crm"
+            "value": "devopsherotraining-ci-api-crm"
         },
 
 
         "crmSqlserverName": {
-            "value": "xt-ci-sql-crm"
+            "value": "devopsherotraining-ci-sql-crm"
         },
         "administratorLogin": {
             "value": "superadmin"
         },
         "administratorLoginPassword": {
-            "value": ""
+            "value": "Thisis@complexPassword1"
         },
         "crmDatabaseName": {
             "value": "CRM"
@@ -35,7 +35,7 @@
             "value": "Basic"
         },
         "crmApiName": {
-            "value": "xt-ci-api-crm"
+            "value": "devopsherotraining-ci-api-crm"
         }
     }
 }
